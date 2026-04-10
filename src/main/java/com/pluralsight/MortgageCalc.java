@@ -6,7 +6,6 @@ public class MortgageCalc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-
         // I want to welcome the user and ask for their principal, interest, and loan rate
         System.out.println("Welcome to the Mortgage Calculator!");
         System.out.print("What is the principal on your loan?: $");
